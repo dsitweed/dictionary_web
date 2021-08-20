@@ -1,0 +1,6 @@
+Sẽ tạo 1 trang web:
+2 chức năng chính: KẾT NỐI và QUẢN LÍ
+
+1) Có khả năng KẾT NỐI những chủ nhà và những người có nhu cầu muốn thuê nhà
+
+2) Hỗ trợ những chủ nhà quản lí người thuê nhà đang thuê, tình trạng thu tiền, người ở, tự động tính tiền phải thu hàng tháng, tỉ xuất thuê phòng, thống kê thu nhập.

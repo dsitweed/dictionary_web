@@ -1,0 +1,32 @@
+3 Đối tượng:
+1) xem chùa
+2) Chủ nhà muốn cho thuê nhà -> đăng kí tài khoản chủ nhà
+3) Người muốn đăng bài ghép phòng (dịch vụ: share house) -> đăng kí tài khoản người thuê (tên hơi chuối)
+
+####
+
+Chức năng chung:
+1) Khách xem các bài đăng, tìm kiếm
+2) Chủ nhà đăng thông tin nhà muốn cho thuê
+3) Người thuê đăng thông tin cá nhân, thông tin người muốn share house
+4) Tìm kiếm:
+- Theo địa điểm
+- Theo giá tiền
+- Theo diện tích
+
+
+
+
+
+## Chức năng chưa có ở những web tìm kiếm phòng trọ khác:
+
+1) Chọn 1 địa điểm cụ thể và tìm kiếm những phòng trọ trong bán kính n KM
+(có thể nhập chi tiết thông tin, hoặc đánh dấu trên google map, VD: Đại học bách khoa)
+
+2) Quản lí thông tin nhà trọ của chủ nhà
++ Số phòng (đang ở/ đang trống)
++ Số người từng phòng, tổng người
++ Tình trạng ở/ trống/ tiền thuê đã thu hay chưa
+=> Mục tiêu:
+Giúp chủ nhà quán lí thông tin phòng trọ dễ dàng, và khi xuất hiện phòng trọ trống tự động upload thông tin lên để tìm người ở)
+
