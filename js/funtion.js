@@ -1,5 +1,5 @@
 // file json - data
-const url = ".././text/data.json";
+const url = "./text/data.json";
 
 const searchInput = document.querySelector('#search-input');
 const result = document.querySelector('#result');
